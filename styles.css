@@ -1,0 +1,30 @@
+.navbar-header{
+    padding-right: 600px;
+}
+#home-caption {
+    margin-bottom: 30%;
+}
+.navbar-default{
+    background-color: #265a88;
+}
+.navbar-default .navbar-brand {
+    color: white;
+}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+    color: #2aabd2;
+}
+.navbar-default .navbar-nav > li > a {
+    color: white;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #2aabd2;
+}
+body{
+    background-color: #2e6da4;
+
+}
+hr{
+    color: white;
+}
